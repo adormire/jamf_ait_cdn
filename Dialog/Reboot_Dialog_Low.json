@@ -1,0 +1,23 @@
+{
+  "title": "[ AgriLife IT ] Reboot Reminder",
+  "titlefont": "colour=#FFFFFF,weight=semibold,size=30",
+  "messagefont": "size=18",
+  "messagealignment" : "left",
+  "bannertitle": "[ AgriLife IT ] Reboot Reminder",
+  "bannerimage": "color=#03233B",
+  "bannerheight": "80.0",
+  "buttonsize": "large",
+  "button2": true,
+  "button1text": "Restart in 5 minutes",
+  "button2text": "Not now (Defer)",
+  "hideicon": true,
+  "height": "440.0",
+  "width": "500.0",
+  "moveable": true,
+  "ontop": true,
+  "infotext": "AIT-934Q3-L",
+  "position": "topright",
+  "positionoffset": "20",
+  "quitkey": "q",
+  "json": true
+}
